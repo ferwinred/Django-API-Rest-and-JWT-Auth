@@ -1,0 +1,5 @@
+django
+pyjwt
+psycopg2
+django-cors-headers
+passlib

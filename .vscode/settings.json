@@ -1,0 +1,5 @@
+{
+    "python.formatting.provider": "black",
+    "appService.defaultWebAppToDeploy": "/subscriptions/1cda5682-b010-4c83-99e0-211ee4589c37/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/users-app-django",
+    "appService.deploySubpath": "."
+}
